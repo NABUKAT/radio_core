@@ -1,6 +1,8 @@
 #!/bin/bash
 
 pid=$$
+
+# Main python program path
 radikopy="/opt/radio_core/radiko.py"
 
 # Usage
